@@ -10,3 +10,4 @@ In order to implement the given project, Android Studio environment is used as a
 12th commit
 13th commit
 14th commit
+15th commit
